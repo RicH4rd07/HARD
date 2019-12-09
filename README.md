@@ -182,6 +182,7 @@ while True:
      elif opcionMenu == "4":
          b = sniff(count=30)
          b.nsummary()
+         
 
          print("*******************************No se logro realizar un envenenamiento por ARP************************************************")
 
